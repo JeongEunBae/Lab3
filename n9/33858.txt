@@ -1,0 +1,8 @@
+[ Sun Nov 15 12:35:20 2020 ] P1 : Hello~~~~ 
+[ Sun Nov 15 12:35:27 2020 ] P2 : /s 
+[ Sun Nov 15 12:35:44 2020 ] P2 : Hi~~~~~~ 
+[ Sun Nov 15 12:35:54 2020 ] P1 : What's your name?? 
+[ Sun Nov 15 12:36:03 2020 ] P2 : I'm JeongEun! 
+[ Sun Nov 15 12:36:17 2020 ] P2 : What's your name? 
+[ Sun Nov 15 12:36:25 2020 ] P1 : I'm JeongNi! 
+[ Sun Nov 15 12:36:36 2020 ] P1 : /q 
